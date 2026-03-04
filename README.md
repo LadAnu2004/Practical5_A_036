@@ -1,46 +1,19 @@
-\# Cloud Computing with DevOps Practical 5A
+# Practical 5A - Cloud Computing with DevOps
 
+## Student Information
+- Enrollment No: 202504104610036
+- Partner Enrollment No: 202504104610039
+- Practical Set: A
 
-
-\## Student Information
-
-Name: Your Name
-
-Enrollment No: 036
-
-Practical Set: A
-
-
-
-\## Subject
-
+## Subject
 Cloud Computing with DevOps
 
+## Project Description
+This repository contains Practical 5A including:
+- HTML Output Page
+- requirements.txt
+- Documentation
+- Screenshots
 
-
-\## Practical Overview
-
-This repository contains Practical 5A.
-
-It includes continuation of Practical 4 project with:
-
-\- requirements.txt
-
-\- README documentation
-
-\- Screenshots
-
-
-
-\## How to Run
-
-pip install -r requirements.txt
-
-python app.py
-
-
-
-\## Screenshots
-
-(Added below)
-
+## Output Screenshot
+![Output](images/cloud_5.png)
